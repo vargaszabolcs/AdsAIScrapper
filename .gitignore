@@ -1,0 +1,4 @@
+/.env
+/ads_data.db
+/data.db
+/__pycache__
