@@ -93,7 +93,6 @@ def scrape_listings():
                         )
                         if element:
                             page_loaded = True
-                            print(f"Found content with selector: {selector}")
                             break
                     except:
                         continue
